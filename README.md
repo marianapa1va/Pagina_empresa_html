@@ -53,7 +53,7 @@
         
             </ul>
 
-            <h1><b>Vantagens de ser cliente</b></h1>
+            <h2><b>Vantagens de ser cliente</b></h2>
 
             <ol>
                 <li>Atendimento <b>rápido</b></li>
@@ -69,9 +69,9 @@
     <p><i>"Gostei demais do serviço prestado, muito conhecimento, atenção, velocidade, conhecimento das ferramentas. Com certeza voltarei a fazer negócio!"</i><br><b>João Silva</b></p>
 <hr>
 
-<h1>
+<h2>
     Mapa Site
-</h1>
+</h2>
 <ul>
     <li>Home</li>
     <li>Quem somos</li>
